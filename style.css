@@ -1,0 +1,167 @@
+body{
+    background-image: url(header-image.png);
+    
+    background-repeat: no-repeat;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.img{
+    width: 13%;
+    margin-top: 20px;
+    padding-top: 18px;
+    height: 20px;
+    color: rgb(226, 0, 0);
+    
+}
+.eng{
+    margin-inline: 22px;
+   width: 110px;
+   height: 40px;
+   background-color: black;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 19px;
+   border: 2px solid white;
+   border-radius: 3px;
+   margin-right: 23px;
+   margin-top: 23px;
+    
+}
+.eng:hover{
+    background-color: transparent;
+}
+.Sign:hover{
+    background-color: transparent;
+    border: 2px solid red;
+}
+.Sign{
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    width: 110px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    font-size: 19px;
+    margin-left: 60px;
+}
+.main{
+    padding: 320px;
+    text-align: center;
+    font-family: 'poppins' 'sans-serif';
+    font-size: 26px;
+    
+}
+.input{
+    display: inline;
+    justify-content: center;
+    width: 400px;
+    height: 58px;
+    margin-top: 120px;
+    border: none;
+    font-size: 28px;
+    border: none;
+    
+   
+}
+.input button{
+    width: 160px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    font-size: 22px;
+    border: none;
+
+}
+.first{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 200px;
+    padding: 66px;
+    border-top: 4px solid gray;
+
+
+}
+.text h1{
+    text-align: center;
+    font-family: Arial;
+    font-size: 55px;
+    
+    
+    justify-content: space-around;
+    align-content: center;
+    align-content: center;
+    
+}
+.text p{
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 1.8;
+    
+    align-items: center;
+    justify-content: center;
+}
+.first img{
+    width: 44%;
+}
+.buttons button{
+    width: 600px;
+    height: 60px;
+    background-color: grey;
+    color: white;
+    font-size: 28px;
+    margin-left: 26%;
+    text-align: left;
+    
+}
+    .buttons h1{
+        font-size: 45px;
+        font-family: Arial;
+        text-align: center;
+        border-top: 4px solid grey;
+        padding: 20px;
+    
+    }
+    .footer{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 34px;
+        border-top: 4px solid grey;
+        text-decoration: underline;
+    }
+        
+    
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+   
+   
+   
+   
+
+    
+   
